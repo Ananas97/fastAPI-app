@@ -11,6 +11,7 @@ a solution for a recruitment task that embodies following reqs:
 ## Installation 
 Run local
 - Install dependencies pip install -r requirements.txt
+
 Run server
 - in a directory use the following command  \api_app>python fastapi_engine.py
 
