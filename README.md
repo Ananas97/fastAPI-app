@@ -10,9 +10,9 @@ a solution for a recruitment task that embodies following reqs:
 
 ## Installation 
 Run local
-[x]Install dependencies pip install -r requirements.txt
+- Install dependencies pip install -r requirements.txt
 Run server
-[x] in a directory use the following command  \api_app>python fastapi_engine.py
+- in a directory use the following command  \api_app>python fastapi_engine.py
 
 ## API documentation (provided by Swagger UI)
 http://127.0.0.1:8000/docs#/
