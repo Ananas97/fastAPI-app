@@ -17,4 +17,5 @@ Run server
 
 ## API documentation (provided by Swagger UI)
 http://127.0.0.1:8000/docs#/
+![image](https://user-images.githubusercontent.com/23456385/113216285-63a09380-927c-11eb-980d-7ae55b37fb49.png)
 
